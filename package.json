@@ -1,0 +1,25 @@
+{
+  "name": "sarata-task-runner",
+  "version": "1.0.0",
+  "description": "A simple Task Runner implemented with Sarata.js",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorlIoll/sarata-task-runner"
+  },
+  "keywords": [
+    "sarata",
+    "task-runner",
+    "nodejs"
+  ],
+  "author": "gorlIoll",
+  "license": "MIT",
+  "dependencies": {
+    "sarata": "^1.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0"
+  }
+}
